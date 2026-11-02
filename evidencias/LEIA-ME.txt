@@ -1,0 +1,3 @@
+Execução completa no SQL Server em 02/11/2026: banco vazio, scripts 01 a 08 executados na ordem, sem erros.
+Cada arquivo traz o número do script (01 a 08) e a aba mostrada (Resultados ou Mensagens).
+O script 09 não é executado (proposta documentada).
