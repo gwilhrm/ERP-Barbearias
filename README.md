@@ -15,6 +15,7 @@ Documento completo: `documentacao/ERP_Estudio_XXI_Entrega_Final.docx` (e PDF). A
 ## 2. Integrantes
 Andressa Fischer Ruksenas Pires · Bruno dos Santos Sanches · Felipe Tavares da Costa · Guilherme Pinheiro Paulino · Gustavo Alexander Mamani Almoguera · Lucas Castro da Silva · Pedro Kimbembi Luzayadio · Rodrigo de Melo Vieira · Victor Vincenzo Frederico · Vitória Cristina Martins Costa.
 Contribuições individuais: Quadro 2 do documento **[a preencher pelo grupo conforme o histórico de commits]**.
+-Andressa Fischer Ruksenas Pires — Contribuição no levantamento de requisitos e estruturação arquitetural do ERP, definição das regras de negócio de agendamentos e finanças, modelagem dos scripts de validação de dados e idealização conceitual da integração de inteligência artificial no sistema.
 - Pedro Kimbembi Luzayadio — Contribuição na análise e revisão do DER conceitual, com participação na definição e validação das chaves primárias e estrangeiras, bem como na análise dos relacionamentos e no tratamento dos relacionamentos N:N por meio de tabelas associativas.
 
 ## 3. Empresa e problema
