@@ -1,4 +1,4 @@
-# ERP para Barbearias – Estúdio XXI (Grupo 8)
+# ERP para Barbearias – (Grupo 8)
 
 Projeto Integrador de Modelagem de Dados – Engenharia de Software – UNICID – Prof. Clóvis.
 Entrega final: do modelo conceitual ao banco de dados implementado.
